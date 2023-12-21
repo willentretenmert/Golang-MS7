@@ -15,7 +15,6 @@ var (
 )
 
 func main() {
-	//hostIP = "localhost"
 	hostIP = "postgres"
 
 	// Подключение к базе данных
