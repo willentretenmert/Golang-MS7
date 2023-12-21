@@ -24,4 +24,4 @@ jobs:
       uses: docker/build-push-action@v2
       with:
         push: true
-        tags: willentretenmert/golang-ms7:latest
+        tags: lockheed3/golang-ms7:latest
